@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>clearly convey</title>
-    <link href="https://clearlyconvey.ca/feed.xml" rel="self" />
-    <link href="https://clearlyconvey.ca" />
+    <link href="https://www.clearlyconvey.ca/feed.xml" rel="self" />
+    <link href="https://www.clearlyconvey.ca" />
     <updated>2024-02-04T11:23:05-05:00</updated>
     <author>
         <name>Alan Bristow</name>
     </author>
-    <id>https://clearlyconvey.ca</id>
+    <id>https://www.clearlyconvey.ca</id>
 
     <entry>
         <title>About</title>
         <author>
             <name>Alan Bristow</name>
         </author>
-        <link href="https://clearlyconvey.ca/about.html"/>
-        <id>https://clearlyconvey.ca/about.html</id>
+        <link href="https://www.clearlyconvey.ca/about.html"/>
+        <id>https://www.clearlyconvey.ca/about.html</id>
 
         <updated>2024-02-04T11:23:05-05:00</updated>
             <summary>
