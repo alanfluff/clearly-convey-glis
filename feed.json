@@ -12,16 +12,16 @@
         {
             "id": "https://www.clearlyconvey.ca/about.html",
             "url": "https://www.clearlyconvey.ca/about.html",
-            "title": "About",
-            "summary": "Hi, I build and test the accessibility of websites. Alan Bristow",
-            "content_html": "<p>Hi,</p>\n<p>I build and test the accessibility of websites.</p>\n<p>Alan Bristow</p>",
+            "title": "About (to become a website with content)",
+            "summary": "Hi, I build and test the accessibility of websites. Except clearly I&hellip;",
+            "content_html": "<p>Hi,</p>\n<p>I build and test the accessibility of websites.</p>\n<p>Except clearly I have yet to prove that here. Apologies internet person, I will be adding content.</p>\n<p>Alan Bristow</p>",
             "author": {
                 "name": "Alan Bristow"
             },
             "tags": [
             ],
             "date_published": "2024-02-03T23:56:37-05:00",
-            "date_modified": "2024-02-04T11:39:34-05:00"
+            "date_modified": "2024-02-04T12:05:28-05:00"
         }
     ]
 }
