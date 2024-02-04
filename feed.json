@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "clearly convey",
+    "description": "",
+    "home_page_url": "https://clearly-convey.ca",
+    "feed_url": "https://clearly-convey.ca/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alan Bristow"
+    },
+    "items": [
+        {
+            "id": "https://clearly-convey.ca/about.html",
+            "url": "https://clearly-convey.ca/about.html",
+            "title": "About",
+            "summary": "Hi, I build and test the accessibility of websites. Alan Bristow",
+            "content_html": "<p>Hi,</p>\n<p>I build and test the accessibility of websites.</p>\n<p>Alan Bristow</p>",
+            "author": {
+                "name": "Alan Bristow"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-03T23:56:37-05:00",
+            "date_modified": "2024-02-03T23:56:37-05:00"
+        }
+    ]
+}

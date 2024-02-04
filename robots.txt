@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clearly-convey.ca/sitemap.xml
