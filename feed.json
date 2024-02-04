@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "clearly convey",
     "description": "",
-    "home_page_url": "https://alanfluff.github.io/clearly-convey-glis",
-    "feed_url": "https://alanfluff.github.io/clearly-convey-glis/feed.json",
+    "home_page_url": "https://clearlyconvey.ca",
+    "feed_url": "https://clearlyconvey.ca/feed.json",
     "user_comment": "",
     "author": {
         "name": "Alan Bristow"
     },
     "items": [
         {
-            "id": "https://alanfluff.github.io/clearly-convey-glis/about.html",
-            "url": "https://alanfluff.github.io/clearly-convey-glis/about.html",
+            "id": "https://clearlyconvey.ca/about.html",
+            "url": "https://clearlyconvey.ca/about.html",
             "title": "About",
             "summary": "Hi, I build and test the accessibility of websites. Alan Bristow",
             "content_html": "<p>Hi,</p>\n<p>I build and test the accessibility of websites.</p>\n<p>Alan Bristow</p>",
