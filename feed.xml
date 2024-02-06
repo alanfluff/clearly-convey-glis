@@ -3,7 +3,7 @@
     <title>clearly convey</title>
     <link href="https://www.clearlyconvey.ca/feed.xml" rel="self" />
     <link href="https://www.clearlyconvey.ca" />
-    <updated>2024-02-06T05:56:13-05:00</updated>
+    <updated>2024-02-06T06:07:29-05:00</updated>
     <author>
         <name>Alan Bristow</name>
     </author>
@@ -17,20 +17,19 @@
         <link href="https://www.clearlyconvey.ca/about.html"/>
         <id>https://www.clearlyconvey.ca/about.html</id>
 
-        <updated>2024-02-06T05:56:13-05:00</updated>
+        <updated>2024-02-06T06:07:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    Hi, I build and test the accessibility of websites, except clearly I have yet to prove that here. I became somewhat obsessed with semantic HTML,&hellip;
+                    Hi, I build and test the accessibility of websites, except clearly I have yet to prove that here o_O. I became somewhat obsessed with semantic&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Hi,</p>
-<p>I build and test the accessibility of websites, except clearly I have yet to prove that here.</p>
+<p>I build and test the accessibility of websites, except clearly I have yet to prove that here o_O.</p>
 <h2>Me</h2>
-<p>I became somewhat obsessed with semantic HTML, and with CSS, starting in 2001 and that obsession only got worse when I read <a href="https://en.wikipedia.org/wiki/Designing_with_Web_Standards"><cite>Designing with Web Standards</cite></a> by Jeffrey Zeldman in 2003. Hungry for more I moved on to <cite>Web Standards Solutions</cite> by Dan Cederholm in 2004, and <cite>CSS: The Definitive Guide</cite> by Eric Meyer.</p>
-<p>These were some of my web foundations.</p>
-<p>I build websites and audit websites for accessibility. </p>
+<p>I became somewhat obsessed with semantic HTML, and with CSS, starting in 2001 and that obsession only got worse when I read <a href="https://en.wikipedia.org/wiki/Designing_with_Web_Standards"><cite>Designing with Web Standards</cite></a> by Jeffrey Zeldman in 2003. Hungry for more I moved on to <cite>Web Standards Solutions</cite> by Dan Cederholm in 2004, and <cite>CSS: The Definitive Guide</cite> by Eric Meyer. I was hooked…</p>
+<p>I often listen to web pages, and usually hate the <code>br</code> tag.</p>
 <p>Alan Bristow</p>
             ]]>
         </content>
