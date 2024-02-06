@@ -3,7 +3,7 @@
     <title>clearly convey</title>
     <link href="https://www.clearlyconvey.ca/feed.xml" rel="self" />
     <link href="https://www.clearlyconvey.ca" />
-    <updated>2024-02-05T22:33:47-05:00</updated>
+    <updated>2024-02-05T22:47:49-05:00</updated>
     <author>
         <name>Alan Bristow</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.clearlyconvey.ca/about.html"/>
         <id>https://www.clearlyconvey.ca/about.html</id>
 
-        <updated>2024-02-05T22:33:47-05:00</updated>
+        <updated>2024-02-05T22:47:49-05:00</updated>
             <summary>
                 <![CDATA[
                     Hi, I build and test the accessibility of websites. Except clearly I have yet to prove that here. Apologies internet person, I will be adding&hellip;
@@ -29,6 +29,9 @@
 <p>I build and test the accessibility of websites.</p>
 <p>Except clearly I have yet to prove that here. Apologies internet person, I will be adding some actual content in due course.</p>
 <p>Alan Bristow</p>
+<h2>Me</h2>
+<p>I became somewhat obsessed with semantic HTML, and with CSS, starting in 2001 and that obsession only got worse when I read <a href="https://en.wikipedia.org/wiki/Designing_with_Web_Standards"><cite>Designing with Web Standards</cite></a> by Jeffrey Zeldman in 2003. Hungry for more I moved on to <cite>Web Standards Solutions</cite> by Dan Cederholm in 2004, and <cite>CSS: The Definitive Guide</cite> by Eric Meyer.</p>
+<p>I've now channeled and tamed these obsessions to focus on building websites, and auditing websites for accessibility. </p>
             ]]>
         </content>
     </entry>
