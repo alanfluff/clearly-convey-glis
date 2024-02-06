@@ -3,7 +3,7 @@
     <title>clearly convey</title>
     <link href="https://www.clearlyconvey.ca/feed.xml" rel="self" />
     <link href="https://www.clearlyconvey.ca" />
-    <updated>2024-02-04T12:05:28-05:00</updated>
+    <updated>2024-02-05T22:33:47-05:00</updated>
     <author>
         <name>Alan Bristow</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://www.clearlyconvey.ca/about.html"/>
         <id>https://www.clearlyconvey.ca/about.html</id>
 
-        <updated>2024-02-04T12:05:28-05:00</updated>
+        <updated>2024-02-05T22:33:47-05:00</updated>
             <summary>
                 <![CDATA[
-                    Hi, I build and test the accessibility of websites. Except clearly I&hellip;
+                    Hi, I build and test the accessibility of websites. Except clearly I have yet to prove that here. Apologies internet person, I will be adding&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Hi,</p>
 <p>I build and test the accessibility of websites.</p>
-<p>Except clearly I have yet to prove that here. Apologies internet person, I will be adding content.</p>
+<p>Except clearly I have yet to prove that here. Apologies internet person, I will be adding some actual content in due course.</p>
 <p>Alan Bristow</p>
             ]]>
         </content>
