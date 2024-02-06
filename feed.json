@@ -13,15 +13,15 @@
             "id": "https://www.clearlyconvey.ca/about.html",
             "url": "https://www.clearlyconvey.ca/about.html",
             "title": "About (to become a website with content)",
-            "summary": "Hi, I build and test the accessibility of websites. Except clearly I have yet to prove that here. Apologies internet person, I will be adding&hellip;",
-            "content_html": "<p>Hi,</p>\n<p>I build and test the accessibility of websites.</p>\n<p>Except clearly I have yet to prove that here. Apologies internet person, I will be adding some actual content in due course.</p>\n<p>Alan Bristow</p>\n<h2>Me</h2>\n<p>I became somewhat obsessed with semantic HTML, and with CSS, starting in 2001 and that obsession only got worse when I read <a href=\"https://en.wikipedia.org/wiki/Designing_with_Web_Standards\"><cite>Designing with Web Standards</cite></a> by Jeffrey Zeldman in 2003. Hungry for more I moved on to <cite>Web Standards Solutions</cite> by Dan Cederholm in 2004, and <cite>CSS: The Definitive Guide</cite> by Eric Meyer.</p>\n<p>I've now channeled these early web obsessions to focus on building websites, and auditing websites for accessibility. </p>",
+            "summary": "Hi, I build and test the accessibility of websites, except clearly I have yet to prove that here. I became somewhat obsessed with semantic HTML,&hellip;",
+            "content_html": "<p>Hi,</p>\n<p>I build and test the accessibility of websites, except clearly I have yet to prove that here.</p>\n<h2>Me</h2>\n<p>I became somewhat obsessed with semantic HTML, and with CSS, starting in 2001 and that obsession only got worse when I read <a href=\"https://en.wikipedia.org/wiki/Designing_with_Web_Standards\"><cite>Designing with Web Standards</cite></a> by Jeffrey Zeldman in 2003. Hungry for more I moved on to <cite>Web Standards Solutions</cite> by Dan Cederholm in 2004, and <cite>CSS: The Definitive Guide</cite> by Eric Meyer.</p>\n<p>These were some of my web foundations.</p>\n<p>I build websites and audit websites for accessibility. </p>\n<p>Alan Bristow</p>",
             "author": {
                 "name": "Alan Bristow"
             },
             "tags": [
             ],
             "date_published": "2024-02-03T23:56:37-05:00",
-            "date_modified": "2024-02-05T22:50:59-05:00"
+            "date_modified": "2024-02-06T05:56:13-05:00"
         }
     ]
 }
